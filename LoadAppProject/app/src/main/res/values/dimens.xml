@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="sp_20_text_size">20sp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_170">170dp</dimen>
+    <dimen name="sp_30_text_size">30sp</dimen>
+    <dimen name="dp_200">200dp</dimen>
+</resources>
